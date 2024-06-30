@@ -2,6 +2,35 @@
   Blog Styles
 */
 
+.post {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}
+
+.title, .content, .user {
+  padding: 20px;
+  min-height: 15%;
+}
+
+.content {
+  height: 70%;
+  border-top: 1px #999 solid;
+  border-bottom: 1px #999 solid;
+  overflow: auto;
+}
+
+article {
+  background-color: beige;
+  color: black;
+}
+
+.post .user::before {
+  content: "Posted by: ";
+}
+
+
+
 /*
   Tags
 */

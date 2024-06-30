@@ -48,6 +48,15 @@ ul {
 /*
   General Styles
 */
+
+.dayOrNight:hover {
+  cursor: pointer;
+}
+
+.dayOrNight {
+  font-size: 20px;
+}
+
 /*
   Universal
 */
@@ -93,26 +102,24 @@ main {
 /*
   Classes
 */
-.dark header,
-.dark footer {
+.dark {
   background-color: var(--dark);
   color: var(--light);
 }
 
 
-.dark main {
+.darkMain {
   background-color: var(--dark-accent);
   color: var(--light);
   border-top: solid .5rem var(--disabled);
 }
 
-.light header,
-.light footer {
+.light {
   background-color: var(--light);
   color: var(--dark);
 }
 
-.light main {
+.lightMain {
   background-color: var(--light-accent);
   color: var(--dark);
 }
