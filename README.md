@@ -13,7 +13,6 @@ A simple web application utilising the Local Storage Web API to create, store, a
 The Coding Bootcamp at the University of Sydney. &copy; 2024.
 
 ---
----
 
 ## Challenge Details:
 
