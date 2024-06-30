@@ -1,5 +1,22 @@
 # 04 Web APIs: Personal Blog
 
+## About
+A simple web application utilising the Local Storage Web API to create, store, and display user blog posts.
+
+## Screenshot
+![Screenshot](./Assets/screenshot.png)
+
+## Live URL
+
+## Credits
+
+The Coding Bootcamp at the University of Sydney. &copy; 2024.
+
+---
+---
+
+## Challenge Details:
+
 ## Your Task
 
 In this challenge, you'll create a two-page website where users will input and view blog posts. It includes building a content form, dynamically rendering blog posts, and implementing a light/dark mode toggle. As you code, you'll gain practical JavaScript experience, explore the Document Object Model's power, and set the stage for more advanced tasks.
