@@ -7,6 +7,7 @@ A simple web application utilising the Local Storage Web API to create, store, a
 ![Screenshot](./Misc/screenshot.png)
 
 ## Live URL
+https://alvin-est.github.io/silver-fiesta/
 
 ## Credits
 
