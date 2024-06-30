@@ -10,7 +10,8 @@ A simple web application utilising the Local Storage Web API to create, store, a
 
 ## Credits
 
-The Coding Bootcamp at the University of Sydney. &copy; 2024.
+The Coding Bootcamp at the University of Sydney.   
+&copy; 2024.
 
 ---
 
