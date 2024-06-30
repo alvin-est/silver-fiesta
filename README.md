@@ -4,7 +4,7 @@
 A simple web application utilising the Local Storage Web API to create, store, and display user blog posts.
 
 ## Screenshot
-![Screenshot](./Assets/screenshot.png)
+![Screenshot](./Misc/screenshot.png)
 
 ## Live URL
 
@@ -58,7 +58,7 @@ THEN I can see the title, the content, and the author of the post.
 
 The following animation demonstrates the application functionality:
 
-![A user adds a blog through a form, then the post appears on the following page.](./Assets/100-web-apis-challenge-demo.gif)
+![A user adds a blog through a form, then the post appears on the following page.](./Misc/100-web-apis-challenge-demo.gif)
 
 ## Grading Requirements
 
